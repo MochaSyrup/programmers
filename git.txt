@@ -1,0 +1,6 @@
+git --version
+깃의 버전 확인 
+git config --global
+
+git clone 주소 
+업로드파일 클로닝
