@@ -7,3 +7,9 @@ answer[i] = list.get(i);
 문자열에 0~9까지의 숫자가포함되어있는지 알아보기
 String a= "1234";
 s.matches("(^[0-9]*$)"
+
+String => int
+ex)
+String s ="1234";
+int answer = Integer.parseInt(s);
+int answer  = 1234
