@@ -4,3 +4,5 @@ git config --global
 
 git clone 주소 
 업로드파일 클로닝
+
+오늘은 대충
