@@ -13,3 +13,6 @@ ex)
 String s ="1234";
 int answer = Integer.parseInt(s);
 int answer  = 1234
+
+ 배열 정리
+Arrays.sort(--)
